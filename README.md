@@ -3,7 +3,7 @@ EMT - Evgeny Muravjev Typograph for Laravel 5
 
 ## Install:
 
-`composer require tttptd/laravel-mdash:dev-master`
+`composer require tttptd/laravel-mdash`
 
 
 Add to config/app.php:
