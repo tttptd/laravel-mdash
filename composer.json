@@ -1,0 +1,31 @@
+{
+    "name": "tttptd/laravel-mdash",
+    "type": "library",
+    "description": "EMT - Evgeny Muravjev Typograph for Laravel 5",
+    "keywords": [
+        "laravel",
+        "mdash",
+        "typography",
+        "cyrillic",
+        "text",
+        "html"
+    ],
+    "homepage": "https://github.com/tttptd/laravel-mdash",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yu Shi",
+            "email": "mynsa04@ya.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "illuminate/support": "5.3.*",
+        "tttptd/mdash": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tttptd\\Mdash\\": "./src"
+        }
+    }
+}
