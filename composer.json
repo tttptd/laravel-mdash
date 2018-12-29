@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.0",
         "illuminate/support": "^5.3",
-        "tttptd/mdash": "dev-master"
+        "tttptd/mdash": "^0.9"
     },
     "autoload": {
         "psr-4": {
